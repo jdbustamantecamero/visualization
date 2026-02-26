@@ -9,7 +9,7 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
-    > Who is your intended audience? 
+    > Who is your intended audience? Visual
     
     > What information or message are you trying to convey with your visualization? 
     
